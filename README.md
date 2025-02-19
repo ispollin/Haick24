@@ -15,7 +15,7 @@ In this challenge, you will analyze datasets of Arabic sign language images, eac
 
 ## Approach
 1. **Preprocessing**: Image resizing, normalization, and augmentation.
-2. **Model Selection**: CNN architectures (e.g., ResNet, EfficientNet, etc.).
+2. **Model Selection**: CNN architectures (e.g., ResNet, Yolo, etc.).
 3. **Training & Evaluation**: Using loss functions and accuracy metrics.
 4. **Optimization**: Fine-tuning hyperparameters to improve model performance.
 
